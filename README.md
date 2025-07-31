@@ -22,7 +22,7 @@ Serve a ignorare file non necessari (es. node_modules, .env, ecc.)
 Puoi crearne uno facilmente con:
 
 npx gitignore <linguaggio>
-# es. npx gitignore python
+es. npx gitignore python
 Oppure crea manualmente un file .gitignore e incolla le regole desiderate. Puoi trovare template qui: https://github.com/github/gitignore
 
 Aggiungi i file al commit
