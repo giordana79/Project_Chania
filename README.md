@@ -90,7 +90,6 @@ git push -u origin main
 ## 🎉 Fatto!
 
 Il tuo progetto è ora su GitHub!  
-👉 Lo puoi visualizzare all’indirizzo:  
-[https://github.com/openai/il-mio-progetto](https://github.com/openai/il-mio-progetto)
+
 
 
