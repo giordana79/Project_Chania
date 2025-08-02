@@ -1,4 +1,4 @@
-Requisiti:
+#Requisiti:
 
 Git installato sul sistema
 👉 Controlla con: git --version
