@@ -1,9 +1,5 @@
 # 🚀 Caricare un Progetto su GitHub
 
-Questa guida ti spiega passo-passo come caricare un progetto esistente su GitHub usando Git e Visual Studio Code.
-
----
-
 ## ✅ Requisiti
 
 - 🔧 **Git** installato sul sistema  
@@ -97,15 +93,4 @@ Il tuo progetto è ora su GitHub!
 👉 Lo puoi visualizzare all’indirizzo:  
 [https://github.com/openai/il-mio-progetto](https://github.com/openai/il-mio-progetto)
 
----
 
-## 📌 Suggerimenti
-
-- Ricorda di fare commit frequenti e descrittivi.
-- Per collaborare con altri, crea un file `README.md` e una `LICENSE`.
-- Puoi aggiungere anche un file `CHANGELOG.md` per tracciare le modifiche.
-
----
-
-✍️ **Autore**: OpenAI  
-📬 Contatti: [support@openai.com](mailto:support@openai.com)
