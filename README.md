@@ -1,7 +1,7 @@
-#Requisiti:
+# Requisiti:
 
 Git installato sul sistema
-👉 Controlla con: git --version
+👉 Controlla con: *git --version*
 Se non è installato, scaricalo da: https://git-scm.com/
 Account GitHub
 👉 Registrati su https://github.com se non lo hai già.
@@ -15,7 +15,7 @@ Vai su File > Open Folder e seleziona la cartella del tuo progetto.
 Inizializza Git nella cartella (se non lo è già)
 Apri il terminale integrato in VS Code:
 
-git init
+*git init*
 
 Crea un file .gitignore
 Serve a ignorare file non necessari (es. node_modules, .env, ecc.)
@@ -26,8 +26,8 @@ es. npx gitignore python
 Oppure crea manualmente un file .gitignore e incolla le regole desiderate. Puoi trovare template qui: https://github.com/github/gitignore
 
 Aggiungi i file al commit
-git add .
-git commit -m "Primo commit"
+*git add .*
+*git commit -m "Primo commit"*
 
 Crea una nuova repository su GitHub
 Vai su https://github.com/new
@@ -38,11 +38,11 @@ Crea la repo.
 Collega la repo remota
 Nel terminale:
 
-git remote add origin https://github.com/tuo-username/il-mio-progetto.git
+*git remote add origin https://github.com/tuo-username/il-mio-progetto.git*
 
 Invia i file su GitHub
-git branch -M main
-git push -u origin main
+*git branch -M main*
+*git push -u origin main*
 🚀 Fine!
 
 Il progetto ora è su GitHub! Puoi vederlo andando all’indirizzo:
