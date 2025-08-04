@@ -73,7 +73,7 @@ git commit -m "Primo commit"
 Nel terminale:
 
 ```bash
-git remote add origin https://github.com/openai/il-mio-progetto.git
+git remote add origin https://github.com/il-mio-progetto.git
 ```
 
 ---
