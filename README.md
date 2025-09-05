@@ -7,7 +7,7 @@
   ```bash
   git --version
   ```  
-  Se non è installato, scaricalo da: [https://git-scm.com/](https://git-scm.com/)
+  Se non è installato (per Windows), scaricalo da: [https://git-scm.com/](https://git-scm.com/)
 
 - 👤 **Account GitHub**  
   👉 Registrati su: [https://github.com](https://github.com)
